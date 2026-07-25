@@ -3,4 +3,4 @@ pandas
 joblib
 xgboost
 scikit-learn
-google-genai
+openai
